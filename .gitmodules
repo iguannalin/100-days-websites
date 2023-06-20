@@ -10,3 +10,6 @@
 [submodule "moving-choices"]
 	path = moving-choices
 	url = https://github.com/iguannalin/moving-choices.git
+[submodule "reflections"]
+	path = reflections
+	url = https://github.com/iguannalin/reflections.git
