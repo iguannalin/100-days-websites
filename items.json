@@ -1,0 +1,38 @@
+{
+  "0": {
+    "day": 0,
+    "name": "template",
+    "description": "",
+    "size": "kb"
+  },
+  "1": {
+    "day": 1,
+    "name": "mirrors",
+    "description": "(1) i've been obsessed with mirrors for a while now; annaylin.com/100-days/mirrors",
+    "size": "4kb"
+  },
+  "2": {
+    "day": 2,
+    "name": "multiple choices",
+    "description": "(2) it works sometimes; annaylin.com/100-days/multiplechoices",
+    "size": "10kb"
+  },
+  "3": {
+    "day": 3,
+    "name": "reflections",
+    "description": "(3) annaylin.com/100-days/reflections",
+    "size": "5kb"
+  },
+  "-": {
+    "day": 4,
+    "name": "leave a choice",
+    "description": "draw a picture and leave it behind for a friend! this site will persist memory *i learned the hard way that i have to parse everything into a python object from a string if i'm saving it into a text file and sending it back as a json object; as with any live communication app made in a couple of hours, there are some flaws in communicating",
+    "size": "kb"
+  },
+  "6": {
+    "day": 0,
+    "name": "template",
+    "description": "",
+    "size": "kb"
+  }
+}
