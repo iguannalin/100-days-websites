@@ -12,7 +12,7 @@ window.addEventListener("load", () => {
       let elem = document.createElement('div');
       let anchor = document.createElement('a');
       elem.className = "site";
-      anchor.href = `annaylin.com/100-days/${sites[i].name}`;
+      anchor.href = `https://annaylin.com/100-days/${sites[i].name}`;
       anchor.innerHTML = `Day ${i}`;
       elem.appendChild(anchor);
       document.body.appendChild(elem);
