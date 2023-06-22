@@ -13,3 +13,6 @@
 [submodule "reflections"]
 	path = reflections
 	url = https://github.com/iguannalin/reflections.git
+[submodule "leave-a-choice"]
+	path = leave-a-choice
+	url = https://github.com/iguannalin/leave-a-choice.git

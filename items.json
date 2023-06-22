@@ -23,15 +23,15 @@
     "description": "(3) annaylin.com/100-days/reflections",
     "size": "5kb"
   },
-  "-": {
+  "4": {
     "day": 4,
-    "name": "leave a choice",
+    "name": "leave-a-choice",
     "description": "draw a picture and leave it behind for a friend! this site will persist memory *i learned the hard way that i have to parse everything into a python object from a string if i'm saving it into a text file and sending it back as a json object; as with any live communication app made in a couple of hours, there are some flaws in communicating",
     "size": "kb"
   },
-  "6": {
-    "day": 0,
-    "name": "template",
+  "5": {
+    "day": "5",
+    "name": "moving-choices",
     "description": "",
     "size": "kb"
   }
