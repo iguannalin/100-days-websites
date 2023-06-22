@@ -30,7 +30,13 @@
     "size": "14kb"
   },
   "5": {
-    "day": "5",
+    "day": 5,
+    "name": "breathe",
+    "description": "(5) annaylin.com/100-days/breathe",
+    "size": "kb"
+  },
+  "6": {
+    "day": "6",
     "name": "moving-choices",
     "description": "",
     "size": "kb"

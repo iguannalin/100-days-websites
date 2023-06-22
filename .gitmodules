@@ -16,3 +16,6 @@
 [submodule "leave-a-choice"]
 	path = leave-a-choice
 	url = https://github.com/iguannalin/leave-a-choice.git
+[submodule "breathe"]
+	path = breathe
+	url = https://github.com/iguannalin/breathe.git
