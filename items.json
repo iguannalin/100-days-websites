@@ -26,8 +26,8 @@
   "4": {
     "day": 4,
     "name": "leave-a-choice",
-    "description": "draw a picture and leave it behind for a friend! this site will persist memory *i learned the hard way that i have to parse everything into a python object from a string if i'm saving it into a text file and sending it back as a json object; as with any live communication app made in a couple of hours, there are some flaws in communicating",
-    "size": "kb"
+    "description": "(4) annaylin.com/100-days/leave-a-choice",
+    "size": "14kb"
   },
   "5": {
     "day": "5",
