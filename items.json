@@ -32,7 +32,13 @@
   "5": {
     "day": 5,
     "name": "breathe",
-    "description": "(5) annaylin.com/100-days/breathe",
+    "description": "(5) annaylin.com/100-days/breathe; revisiting a three.js drawing i did",
+    "size": "3kb"
+  },
+  "7": {
+    "day": "7",
+    "name": "seeds",
+    "description": "(6) annaylin.com/100-days/seeds",
     "size": "kb"
   },
   "6": {
