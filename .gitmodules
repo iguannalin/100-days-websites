@@ -19,3 +19,6 @@
 [submodule "breathe"]
 	path = breathe
 	url = https://github.com/iguannalin/breathe.git
+[submodule "seeds"]
+	path = seeds
+	url = https://github.com/iguannalin/seeds.git
