@@ -50,7 +50,13 @@
   "8": {
     "day": "8",
     "name": "whack-a-mole",
-    "description": "(8) annaylin.com/100-days/whack-a-mole",
-    "size": "kb"
+    "description": "(8) why are emojis so fun? -- annaylin.com/100-days/whack-a-mole",
+    "size": "1kb"
+  },
+  "9": {
+    "day": "9",
+    "name": "mystery-garden",
+    "description": "(9) annaylin.com/100-days/mystery-garden",
+    "size": "1kb"
   }
 }

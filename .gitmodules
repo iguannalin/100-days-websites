@@ -25,3 +25,6 @@
 [submodule "whack-a-mole"]
 	path = whack-a-mole
 	url = https://github.com/iguannalin/whack-a-mole.git
+[submodule "mystery-garden"]
+	path = mystery-garden
+	url = https://github.com/iguannalin/mystery-garden.git
