@@ -28,3 +28,6 @@
 [submodule "mystery-garden"]
 	path = mystery-garden
 	url = https://github.com/iguannalin/mystery-garden.git
+[submodule "emojis"]
+	path = emojis
+	url = https://github.com/iguannalin/emojis.git

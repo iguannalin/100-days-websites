@@ -57,6 +57,12 @@
     "day": "9",
     "name": "mystery-garden",
     "description": "(9) annaylin.com/100-days/mystery-garden",
+    "size": "6kb"
+  },
+  "10": {
+    "day": "10",
+    "name": "emojis",
+    "description": "(10) annaylin.com/100-days/emojis",
     "size": "1kb"
   }
 }
