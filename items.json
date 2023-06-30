@@ -64,5 +64,11 @@
     "name": "emojis",
     "description": "(10) annaylin.com/100-days/emojis",
     "size": "1kb"
+  },
+  "11": {
+    "day": "11",
+    "name": "black-hole",
+    "description": "(11) annaylin.com/100-days/black-hole",
+    "size": "1kb"
   }
 }

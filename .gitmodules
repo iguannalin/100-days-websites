@@ -31,3 +31,6 @@
 [submodule "emojis"]
 	path = emojis
 	url = https://github.com/iguannalin/emojis.git
+[submodule "black-hole"]
+	path = black-hole
+	url = https://github.com/iguannalin/black-hole.git
