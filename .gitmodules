@@ -34,3 +34,6 @@
 [submodule "black-hole"]
 	path = black-hole
 	url = https://github.com/iguannalin/black-hole.git
+[submodule "recipes"]
+	path = recipes
+	url = https://github.com/iguannalin/recipes.git
