@@ -12,7 +12,7 @@ window.addEventListener("load", () => {
       let anchor = document.createElement('a');
       elem.className = "site";
       anchor.href = `https://annaylin.com/100-days/${sites[i].name.replace(" ", "")}`;
-      anchor.innerHTML = `Day ${i}`;
+      anchor.innerHTML = `day ${i} — ${sites[i].name}`;
       elem.appendChild(anchor);
       document.body.appendChild(elem);
     }

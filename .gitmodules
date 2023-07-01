@@ -1,9 +1,6 @@
 [submodule "mirrors"]
 	path = mirrors
 	url = https://github.com/iguannalin/mirrors
-[submodule "stoplight"]
-	path = stoplight
-	url = https://github.com/iguannalin/stoplight
 [submodule "multiplechoices"]
 	path = multiplechoices
 	url = https://github.com/iguannalin/multiplechoices
