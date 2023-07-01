@@ -11,4 +11,28 @@ html {
 
 body {
   background-color: rgb(35, 35, 35);
+  width: 85%;
+}
+
+.overlay {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 5%;
+  background-color: #ffffff08;
+  box-shadow: 0px 9px 15px 10px #ffffff08;
+  z-index: 1000;
+}
+
+.site {
+  padding: 16px;
+}
+
+a {
+  color: #ffeb3b;
+}
+
+a:visited {
+  color: #07dcc9;
 }

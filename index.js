@@ -7,6 +7,7 @@ window.addEventListener("load", () => {
   fetch("./items.json").then((d) => d.json()).then((r) => {
     sites = r;
     for (let i = 1; i <= daysSince; i++) {
+      if (!sites[i]) return;
       console.log(sites[i]);
       let elem = document.createElement('div');
       let anchor = document.createElement('a');
