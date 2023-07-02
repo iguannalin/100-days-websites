@@ -34,3 +34,6 @@
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/iguannalin/recipes.git
+[submodule "spoken-emojis"]
+	path = spoken-emojis
+	url = https://github.com/iguannalin/spoken-emojis.git

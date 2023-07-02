@@ -76,5 +76,11 @@
     "name": "recipes",
     "description": "(12) annaylin.com/100-days/recipes",
     "size": "15kb"
+  },
+  "13": {
+    "day": "13",
+    "name": "spoken-emojis",
+    "description": "(13) annaylin.com/100-days/spoken-emojis",
+    "size": "14kb"
   }
 }
