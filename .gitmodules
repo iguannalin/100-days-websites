@@ -37,3 +37,6 @@
 [submodule "spoken-emojis"]
 	path = spoken-emojis
 	url = https://github.com/iguannalin/spoken-emojis.git
+[submodule "lunar-sentence"]
+	path = lunar-sentence
+	url = https://github.com/iguannalin/lunar-sentence.git
