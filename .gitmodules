@@ -40,3 +40,6 @@
 [submodule "lunar-sentence"]
 	path = lunar-sentence
 	url = https://github.com/iguannalin/lunar-sentence.git
+[submodule "fireworks"]
+	path = fireworks
+	url = https://github.com/iguannalin/fireworks.git

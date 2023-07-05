@@ -87,6 +87,12 @@
     "day": "14",
     "name": "lunar-sentence",
     "description": "(14) annaylin.com/100-days/lunar-sentence",
+    "size": "9kb"
+  },
+  "15": {
+    "day": "15",
+    "name": "fireworks",
+    "description": "(15) annaylin.com/100-days/fireworks",
     "size": "kb"
   }
 }
