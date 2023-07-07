@@ -43,3 +43,6 @@
 [submodule "fireworks"]
 	path = fireworks
 	url = https://github.com/iguannalin/fireworks.git
+[submodule "rectangles"]
+	path = rectangles
+	url = https://github.com/iguannalin/rectangles.git

@@ -93,6 +93,12 @@
     "day": "15",
     "name": "fireworks",
     "description": "(15) annaylin.com/100-days/fireworks",
+    "size": "8kb"
+  },
+  "16": {
+    "day": "16",
+    "name": "rectangles",
+    "description": "(16) annaylin.com/100-days/rectangles",
     "size": "kb"
   }
 }
