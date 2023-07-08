@@ -100,5 +100,11 @@
     "name": "rectangles",
     "description": "(16) annaylin.com/100-days/rectangles",
     "size": "1kb"
+  },
+  "17": {
+    "day": "17",
+    "name": "directions",
+    "description": "(17) annaylin.com/100-days/directions",
+    "size": "kb"
   }
 }

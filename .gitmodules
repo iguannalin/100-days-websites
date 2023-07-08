@@ -46,3 +46,6 @@
 [submodule "rectangles"]
 	path = rectangles
 	url = https://github.com/iguannalin/rectangles.git
+[submodule "directions"]
+	path = directions
+	url = https://github.com/iguannalin/directions.git
