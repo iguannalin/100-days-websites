@@ -105,6 +105,12 @@
     "day": "17",
     "name": "directions",
     "description": "(17) annaylin.com/100-days/directions",
+    "size": "22kb"
+  },
+  "18": {
+    "day": "18",
+    "name": "scroll",
+    "description": "(18) annaylin.com/100-days/scroll",
     "size": "kb"
   }
 }
