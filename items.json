@@ -111,6 +111,12 @@
     "day": "18",
     "name": "scroll",
     "description": "(18) annaylin.com/100-days/scroll",
+    "size": "1kb"
+  },
+  "19": {
+    "day": "19",
+    "name": "connect",
+    "description": "(19) annaylin.com/100-days/connect-the-dots",
     "size": "kb"
   }
 }

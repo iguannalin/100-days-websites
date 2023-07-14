@@ -52,3 +52,6 @@
 [submodule "scroll"]
 	path = scroll
 	url = https://github.com/iguannalin/scroll.git
+[submodule "connect-the-dots"]
+	path = connect-the-dots
+	url = https://github.com/iguannalin/connect-the-dots.git
