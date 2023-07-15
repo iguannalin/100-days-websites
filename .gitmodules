@@ -55,3 +55,6 @@
 [submodule "connect-the-dots"]
 	path = connect-the-dots
 	url = https://github.com/iguannalin/connect-the-dots.git
+[submodule "doors"]
+	path = doors
+	url = https://github.com/iguannalin/doors.git
