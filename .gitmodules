@@ -58,3 +58,6 @@
 [submodule "doors"]
 	path = doors
 	url = https://github.com/iguannalin/doors.git
+[submodule "sizi"]
+	path = sizi
+	url = https://github.com/iguannalin/sizi.git

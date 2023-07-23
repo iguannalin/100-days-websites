@@ -123,6 +123,12 @@
     "day": "20",
     "name": "doors",
     "description": "(20) annaylin.com/100-days/doors",
+    "size": "1kb"
+  },
+  "21": {
+    "day": "21",
+    "name": "sizi",
+    "description": "(21) annaylin.com/100-days/sizi",
     "size": "kb"
   }
 }
