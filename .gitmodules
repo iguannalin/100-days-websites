@@ -61,3 +61,6 @@
 [submodule "sizi"]
 	path = sizi
 	url = https://github.com/iguannalin/sizi.git
+[submodule "replace"]
+	path = replace
+	url = https://github.com/iguannalin/replace.git

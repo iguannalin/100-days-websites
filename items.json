@@ -128,7 +128,13 @@
   "21": {
     "day": "21",
     "name": "sizi",
-    "description": "(21) annaylin.com/100-days/sizi",
-    "size": "kb"
+    "description": "(21) found a fun chinese API; annaylin.com/100-days/sizi",
+    "size": "61kb"
+  },
+  "22": {
+    "day": "22",
+    "name": "replace",
+    "description": "(22) annaylin.com/100-days/replace",
+    "size": "164kb"
   }
 }
