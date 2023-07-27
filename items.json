@@ -134,7 +134,13 @@
   "22": {
     "day": "22",
     "name": "replace",
-    "description": "(22) annaylin.com/100-days/replace",
+    "description": "(22) i spent $5 on this; annaylin.com/100-days/replace",
     "size": "171kb"
+  },
+  "23": {
+    "day": "23",
+    "name": "canto",
+    "description": "(23) what is chinese for gibberish? annaylin.com/100-days/canto",
+    "size": "kb"
   }
 }
