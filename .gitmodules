@@ -64,6 +64,9 @@
 [submodule "replace"]
 	path = replace
 	url = https://github.com/iguannalin/replace.git
+[submodule "canto"]
+	path = canto
+	url = https://github.com/iguannalin/canto.git
 [submodule "open"]
 	path = open
 	url = https://github.com/iguannalin/open.git
