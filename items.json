@@ -141,6 +141,12 @@
     "day": "23",
     "name": "canto",
     "description": "(23) what is chinese for gibberish? annaylin.com/100-days/canto",
+    "size": "1kb"
+  },
+  "24": {
+    "day": "24",
+    "name": "open",
+    "description": "(24) annaylin.com/100-days/open",
     "size": "kb"
   }
 }
