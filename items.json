@@ -148,5 +148,17 @@
     "name": "open",
     "description": "(24) annaylin.com/100-days/open",
     "size": "2kb"
+  },
+  "25": {
+    "day": "25",
+    "name": "annaylin",
+    "description": "(25) annaylin.com",
+    "size": "50mb"
+  },
+  "26": {
+    "day": "26",
+    "name": "word",
+    "description": "(26) annaylin.com/100-days/word",
+    "size": "kb"
   }
 }

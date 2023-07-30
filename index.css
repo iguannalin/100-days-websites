@@ -1,17 +1,41 @@
 :root {
-  --main-bg-color: rgb(35, 35, 35);
-  --main-text-color: rgb(255 255 255);
-  --alt-bg-color: rgb(223 223 223);
+  --default-bg: #fdfaf6;
+  --default-text: rgb(35, 35, 35);
+  --default-border: yellow;
+  --default-font: 16px;
+  --default-line-height: 24px;
+  --default-link: #404be5;
 }
 
-html {
-  display: block;
-  width: 100%;
+.theme {
+  background-color: var(--default-bg);
+  color: var(--default-text);
+}
+
+@media (prefers-color-scheme: dark) {
+  .theme {
+    --default-bg: rgb(35, 35, 35);
+    --default-text: rgb(89 255 66);
+    --default-border: blue;
+    --default-link: #07dcc9;
+  }
 }
 
 body {
-  background-color: rgb(35, 35, 35);
-  width: 85%;
+  width: 100%;
+  margin: 0 auto;
+  text-shadow: #858ebc -2px 2px 8px;
+  color: var(--default-text);
+  font-size: var(--default-font);
+}
+
+#main {
+  background-color: var(--default-bg);
+  width: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  height: 100vh;
+  overflow-x: scroll;
 }
 
 .overlay {
@@ -30,9 +54,5 @@ body {
 }
 
 a {
-  color: #ffeb3b;
-}
-
-a:visited {
-  color: #07dcc9;
+  color: var(--default-link);
 }
