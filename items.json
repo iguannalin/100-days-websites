@@ -159,6 +159,12 @@
     "day": "26",
     "name": "word",
     "description": "(26) sometimes it's not about quality; annaylin.com/100-days/word",
+    "size": "2kb"
+  },
+  "27": {
+    "day": "27",
+    "name": "unwholesome",
+    "description": "(27) annaylin.com/100-days/unwholesome",
     "size": "kb"
   }
 }
