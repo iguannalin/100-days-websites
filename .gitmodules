@@ -73,6 +73,3 @@
 [submodule "word"]
         path = word
         url = https://github.com/iguannalin/word.git
-[submodule "unwholesome"]
-	path = unwholesome
-	url = https://github.com/iguannalin/unwholesome.git
