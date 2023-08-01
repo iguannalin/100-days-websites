@@ -165,6 +165,12 @@
     "day": "27",
     "name": "unwholesome",
     "description": "(27) annaylin.com/100-days/unwholesome",
+    "size": "4kb"
+  },
+  "28": {
+    "day": "28",
+    "name": "assembly",
+    "description": "(28) annaylin.com/100-days/assembly",
     "size": "kb"
   }
 }

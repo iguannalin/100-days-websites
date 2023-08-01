@@ -76,3 +76,6 @@
 [submodule "unwholesome"]
 	path = unwholesome
 	url = https://github.com/iguannalin/unwholesome.git
+[submodule "assembly"]
+	path = assembly
+	url = https://github.com/iguannalin/assembly.git
