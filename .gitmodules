@@ -79,3 +79,6 @@
 [submodule "assembly"]
 	path = assembly
 	url = https://github.com/iguannalin/assembly.git
+[submodule "wiggly"]
+	path = wiggly
+	url = https://github.com/iguannalin/wiggly.git

@@ -171,6 +171,12 @@
     "day": "28",
     "name": "assembly",
     "description": "(28) i lum mary lum; annaylin.com/100-days/assembly",
+    "size": "16kb"
+  },
+  "29": {
+    "day": "29",
+    "name": "wiggly",
+    "description": "(29) numbers game; annaylin.com/100-days/wiggly",
     "size": "kb"
   }
 }
