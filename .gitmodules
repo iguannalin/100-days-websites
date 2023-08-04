@@ -82,3 +82,6 @@
 [submodule "wiggly"]
 	path = wiggly
 	url = https://github.com/iguannalin/wiggly.git
+[submodule "glyphs"]
+	path = glyphs
+	url = https://github.com/iguannalin/glyphs.git

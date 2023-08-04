@@ -177,6 +177,12 @@
     "day": "29",
     "name": "wiggly",
     "description": "(29) numbers game; annaylin.com/100-days/wiggly",
+    "size": "1kb"
+  },
+  "30": {
+    "day": "30",
+    "name": "glyphs",
+    "description": "(30 numbers game; annaylin.com/100-days/glyphs",
     "size": "kb"
   }
 }
