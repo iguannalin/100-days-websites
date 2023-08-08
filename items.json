@@ -183,6 +183,12 @@
     "day": "30",
     "name": "glyphs",
     "description": "(30 numbers game; annaylin.com/100-days/glyphs",
+    "size": "1.07kb"
+  },
+  "31": {
+    "day": "31",
+    "name": "folder",
+    "description": "annaylin.com/100-days/folder",
     "size": "kb"
   }
 }
