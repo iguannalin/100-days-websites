@@ -64,15 +64,12 @@
 [submodule "replace"]
 	path = replace
 	url = https://github.com/iguannalin/replace.git
-[submodule "canto"]
-	path = canto
-	url = https://github.com/iguannalin/canto.git
 [submodule "open"]
 	path = open
 	url = https://github.com/iguannalin/open.git
 [submodule "word"]
-        path = word
-        url = https://github.com/iguannalin/word.git
+	path = word
+	url = https://github.com/iguannalin/word.git
 [submodule "unwholesome"]
 	path = unwholesome
 	url = https://github.com/iguannalin/unwholesome.git
