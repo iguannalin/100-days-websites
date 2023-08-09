@@ -182,13 +182,19 @@
   "30": {
     "day": "30",
     "name": "glyphs",
-    "description": "(30 numbers game; annaylin.com/100-days/glyphs",
+    "description": "(30) numbers game; annaylin.com/100-days/glyphs",
     "size": "1.07kb"
   },
   "31": {
     "day": "31",
     "name": "folder",
-    "description": "annaylin.com/100-days/folder",
+    "description": "(31) annaylin.com/100-days/folder",
+    "size": "9kb"
+  },
+  "32": {
+    "day": "32",
+    "name": "chengyu",
+    "description": "(32) annaylin.com/100-days/chengyu",
     "size": "kb"
   }
 }

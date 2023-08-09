@@ -88,3 +88,6 @@
 [submodule "folder"]
 	path = folder
 	url = https://github.com/iguannalin/folder.git
+[submodule "chengyu"]
+	path = chengyu
+	url = https://github.com/iguannalin/chengyu.git
