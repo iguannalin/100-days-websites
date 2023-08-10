@@ -200,7 +200,13 @@
   "33": {
     "day": "33",
     "name": "catchthedragon",
-    "description": "(33) new toy; annaylin.com/100-days/catchthedragon",
+    "description": "(33) annaylin.com/100-days/catchthedragon",
+    "size": "3kb"
+  },
+  "34": {
+    "day": "34",
+    "name": "crossword",
+    "description": "(34) so it begins; annaylin.com/100-days/crossword",
     "size": "kb"
   }
 }
