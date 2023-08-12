@@ -206,7 +206,13 @@
   "34": {
     "day": "34",
     "name": "crossword",
-    "description": "(34) so it begins; annaylin.com/100-days/crossword",
+    "description": "(34) let's start simple; annaylin.com/100-days/crossword",
+    "size": "8kb"
+  },
+  "35": {
+    "day": "35",
+    "name": "maze",
+    "description": "(35) annaylin.com/100-days/maze",
     "size": "kb"
   }
 }
