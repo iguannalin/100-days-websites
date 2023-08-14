@@ -91,6 +91,9 @@
 [submodule "chengyu"]
 	path = chengyu
 	url = https://github.com/iguannalin/chengyu.git
+[submodule "catchthedragon"]
+	path = catchthedragon
+	url = https://github.com/iguannalin/catchthedragon.git
 [submodule "crossword"]
 	path = crossword
 	url = https://github.com/iguannalin/crossword.git
