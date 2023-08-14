@@ -219,6 +219,12 @@
     "day": "36",
     "name": "puzzle",
     "description": "(36) brute-force crossword algorithm; annaylin.com/100-days/puzzle",
-    "size": "kb"
+    "size": "54kb"
+  },
+  "37": {
+    "day": "37",
+    "name": "daisy",
+    "description": "(37) 🌼; annaylin.com/100-days/daisy",
+    "size": "166kb"
   }
 }

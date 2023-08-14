@@ -103,3 +103,6 @@
 [submodule "puzzle"]
 	path = puzzle
 	url = https://github.com/iguannalin/puzzle.git
+[submodule "daisy"]
+	path = daisy
+	url = https://github.com/iguannalin/daisy.git
