@@ -212,7 +212,13 @@
   "35": {
     "day": "35",
     "name": "maze",
-    "description": "(35) annaylin.com/100-days/maze",
+    "description": "(35) one of these has to fit, right? annaylin.com/100-days/maze",
+    "size": "1kb"
+  },
+  "36": {
+    "day": "36",
+    "name": "puzzle",
+    "description": "(36) brute-force crossword algorithm; annaylin.com/100-days/puzzle",
     "size": "kb"
   }
 }
