@@ -106,3 +106,6 @@
 [submodule "daisy"]
 	path = daisy
 	url = https://github.com/iguannalin/daisy.git
+[submodule "food"]
+	path = food
+	url = https://github.com/iguannalin/food.git
