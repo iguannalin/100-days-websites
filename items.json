@@ -237,6 +237,12 @@
     "day": "39",
     "name": "recursion",
     "description": "(39) attempt to visualize recursion; annaylin.com/100-days/recursion",
+    "size": "162kb"
+  },
+  "40": {
+    "day": "40",
+    "name": "pi",
+    "description": "(40) a pi timer--when someone visits the site it starts the timer again; annaylin.com/100-days/pi",
     "size": "kb"
   }
 }
