@@ -231,6 +231,12 @@
     "day": "38",
     "name": "food",
     "description": "(38) i'm hungry; annaylin.com/100-days/food",
+    "size": "62kb"
+  },
+  "39": {
+    "day": "39",
+    "name": "recursion",
+    "description": "(39) attempt to visualize recursion; annaylin.com/100-days/recursion",
     "size": "kb"
   }
 }
