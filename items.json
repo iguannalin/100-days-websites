@@ -243,6 +243,12 @@
     "day": "40",
     "name": "pi",
     "description": "(40) a pi timer--when someone visits the site it starts the timer again; annaylin.com/100-days/pi",
+    "size": "3kb"
+  },
+  "41": {
+    "day": "41",
+    "name": "moon",
+    "description": "(41) a moon phase clock; annaylin.com/100-days/moon",
     "size": "kb"
   }
 }
