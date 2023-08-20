@@ -118,3 +118,6 @@
 [submodule "moon"]
 	path = moon
 	url = https://github.com/iguannalin/moon.git
+[submodule "wins"]
+	path = wins
+	url = https://github.com/iguannalin/wins.git
