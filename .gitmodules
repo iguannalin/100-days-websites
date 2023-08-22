@@ -121,3 +121,6 @@
 [submodule "wins"]
 	path = wins
 	url = https://github.com/iguannalin/wins.git
+[submodule "ghostwords"]
+	path = ghostwords
+	url = https://github.com/iguannalin/ghostwords.git
