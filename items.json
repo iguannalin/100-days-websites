@@ -261,6 +261,12 @@
     "day": "43",
     "name": "ghostwords",
     "description": "(43) palindromes; annaylin.com/100-days/ghostwords",
+    "size": "5kb"
+  },
+  "44": {
+    "day": "44",
+    "name": "chancy",
+    "description": "(44) palindromes; annaylin.com/100-days/chancy",
     "size": "kb"
   }
 }
