@@ -124,3 +124,6 @@
 [submodule "ghostwords"]
 	path = ghostwords
 	url = https://github.com/iguannalin/ghostwords.git
+[submodule "chancy"]
+	path = chancy
+	url = https://github.com/iguannalin/chancy.git
