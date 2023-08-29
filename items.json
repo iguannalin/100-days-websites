@@ -267,6 +267,12 @@
     "day": "44",
     "name": "chancy",
     "description": "(44) annaylin.com/100-days/chancy",
+    "size": "7kb"
+  },
+  "45": {
+    "day": "45",
+    "name": "fib",
+    "description": "(45) fibonnaci sequence; annaylin.com/100-days/fib",
     "size": "kb"
   }
 }
