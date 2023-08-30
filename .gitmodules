@@ -127,6 +127,3 @@
 [submodule "chancy"]
 	path = chancy
 	url = https://github.com/iguannalin/chancy.git
-[submodule "fib"]
-	path = fib
-	url = https://github.com/iguannalin/fib.git
