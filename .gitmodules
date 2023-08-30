@@ -130,6 +130,3 @@
 [submodule "fib"]
 	path = fib
 	url = https://github.com/iguannalin/fib.git
-[submodule "bracketsclock"]
-	path = bracketsclock
-	url = https://github.com/iguannalin/bracketsclock.git
