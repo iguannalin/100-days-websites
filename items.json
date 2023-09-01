@@ -280,5 +280,11 @@
     "name": "bracketsclock",
     "description": "(46) annaylin.com/100-days/bracketsclock",
     "size": "1kb"
+  },
+  "47": {
+    "day": "47",
+    "name": "flip",
+    "description": "(47) eventually returns to 0; annaylin.com/100-days/flip",
+    "size": "1kb"
   }
 }
