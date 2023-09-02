@@ -136,3 +136,6 @@
 [submodule "flip"]
 	path = flip
 	url = https://github.com/iguannalin/flip.git
+[submodule "handle"]
+	path = handle
+	url = https://github.com/iguannalin/handle.git

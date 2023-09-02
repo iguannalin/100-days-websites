@@ -286,5 +286,11 @@
     "name": "flip",
     "description": "(47) eventually returns to 0; annaylin.com/100-days/flip",
     "size": "1kb"
+  },
+  "48": {
+    "day": "48",
+    "name": "handle",
+    "description": "(48) shanzhai wordle; annaylin.com/100-days/handle",
+    "size": "1kb"
   }
 }
