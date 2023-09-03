@@ -130,6 +130,9 @@
 [submodule "fib"]
 	path = fib
 	url = https://github.com/iguannalin/fib.git
+[submodule "bracketsclock"]
+	path = bracketsclock
+	url = https://github.com/iguannalin/bracketsclock.git
 [submodule "flip"]
 	path = flip
 	url = https://github.com/iguannalin/flip.git
@@ -139,6 +142,3 @@
 [submodule "circles"]
 	path = circles
 	url = https://github.com/iguannalin/circles.git
-[submodule "bracketsclock"]
-	path = bracketsclock
-	url = https://github.com/iguannalin/bracketsclock.git
