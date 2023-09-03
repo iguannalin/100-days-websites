@@ -139,3 +139,6 @@
 [submodule "circles"]
 	path = circles
 	url = https://github.com/iguannalin/circles.git
+[submodule "bracketsclock"]
+	path = bracketsclock
+	url = https://github.com/iguannalin/bracketsclock.git
