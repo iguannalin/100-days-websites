@@ -292,5 +292,11 @@
     "name": "handle",
     "description": "(48) shanzhai wordle; annaylin.com/100-days/handle",
     "size": "64kb"
+  },
+  "49": {
+    "day": "49",
+    "name": "circles",
+    "description": "(49) annaylin.com/100-days/circles",
+    "size": "kb"
   }
 }
