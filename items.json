@@ -297,6 +297,12 @@
     "day": "49",
     "name": "circles",
     "description": "(49) annaylin.com/100-days/circles",
+    "size": "1kb"
+  },
+  "50": {
+    "day": "50",
+    "name": "mao",
+    "description": "(50) annaylin.com/100-days/mao",
     "size": "kb"
   }
 }
