@@ -145,3 +145,6 @@
 [submodule "mao"]
 	path = mao
 	url = https://github.com/iguannalin/mao.git
+[submodule "xiaoya"]
+	path = xiaoya
+	url = https://github.com/iguannalin/xiaoya.git

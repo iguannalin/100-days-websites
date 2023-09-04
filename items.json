@@ -1,10 +1,4 @@
 {
-  "0": {
-    "day": 0,
-    "name": "template",
-    "description": "",
-    "size": "kb"
-  },
   "1": {
     "day": 1,
     "name": "mirrors",
@@ -303,6 +297,12 @@
     "day": "50",
     "name": "mao",
     "description": "(50) annaylin.com/100-days/mao",
+    "size": "13kb"
+  },
+  "51": {
+    "day": "51",
+    "name": "xiaoya",
+    "description": "(51) annaylin.com/100-days/xiaoya",
     "size": "kb"
   }
 }
