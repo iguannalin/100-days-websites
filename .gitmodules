@@ -142,3 +142,6 @@
 [submodule "circles"]
 	path = circles
 	url = https://github.com/iguannalin/circles.git
+[submodule "mao"]
+	path = mao
+	url = https://github.com/iguannalin/mao.git
