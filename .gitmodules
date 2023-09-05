@@ -148,3 +148,6 @@
 [submodule "xiaoya"]
 	path = xiaoya
 	url = https://github.com/iguannalin/xiaoya.git
+[submodule "skittles"]
+	path = skittles
+	url = https://github.com/iguannalin/skittles.git

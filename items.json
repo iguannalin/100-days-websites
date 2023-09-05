@@ -303,6 +303,12 @@
     "day": "51",
     "name": "xiaoya",
     "description": "(51) annaylin.com/100-days/xiaoya",
+    "size": "16kb"
+  },
+  "52": {
+    "day": "52",
+    "name": "skittles",
+    "description": "(52) fermat's sunflower algorithm? annaylin.com/100-days/skittles",
     "size": "kb"
   }
 }
