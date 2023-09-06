@@ -309,6 +309,12 @@
     "day": "52",
     "name": "skittles",
     "description": "(52) fermat's sunflower algorithm? annaylin.com/100-days/skittles",
+    "size": "3kb"
+  },
+  "53": {
+    "day": "53",
+    "name": "staggered",
+    "description": "(53) checkerboard; annaylin.com/100-days/staggered",
     "size": "kb"
   }
 }
