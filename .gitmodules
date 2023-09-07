@@ -154,3 +154,6 @@
 [submodule "staggered"]
 	path = staggered
 	url = https://github.com/iguannalin/staggered.git
+[submodule "ghosts"]
+	path = ghosts
+	url = https://github.com/iguannalin/ghosts.git

@@ -315,6 +315,12 @@
     "day": "53",
     "name": "staggered",
     "description": "(53) checkerboard; annaylin.com/100-days/staggered",
+    "size": "2kb"
+  },
+  "54": {
+    "day": "54",
+    "name": "ghosts",
+    "description": "(54) always hiding in a different place; annaylin.com/100-days/ghosts",
     "size": "kb"
   }
 }
