@@ -321,6 +321,12 @@
     "day": "54",
     "name": "ghosts",
     "description": "(54) always hiding in a different place; annaylin.com/100-days/ghosts",
+    "size": "99kb"
+  },
+  "55": {
+    "day": "55",
+    "name": "news",
+    "description": "(55) nyt headlines; annaylin.com/100-days/news",
     "size": "kb"
   }
 }
