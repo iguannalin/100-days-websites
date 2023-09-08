@@ -157,3 +157,6 @@
 [submodule "ghosts"]
 	path = ghosts
 	url = https://github.com/iguannalin/ghosts.git
+[submodule "news"]
+	path = news
+	url = https://github.com/iguannalin/news.git
