@@ -327,6 +327,12 @@
     "day": "55",
     "name": "news",
     "description": "(55) nyt headlines; annaylin.com/100-days/news",
+    "size": "1kb"
+  },
+  "56": {
+    "day": "56",
+    "name": "obfuscate",
+    "description": "(56) annaylin.com/100-days/obfuscate",
     "size": "kb"
   }
 }

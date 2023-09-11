@@ -160,3 +160,6 @@
 [submodule "news"]
 	path = news
 	url = https://github.com/iguannalin/news.git
+[submodule "obfuscate"]
+	path = obfuscate
+	url = https://github.com/iguannalin/obfuscate.git
