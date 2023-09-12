@@ -333,6 +333,12 @@
     "day": "56",
     "name": "obfuscate",
     "description": "(56) annaylin.com/100-days/obfuscate",
+    "size": "10kb"
+  },
+  "57": {
+    "day": "57",
+    "name": "sunmoonsky",
+    "description": "(57) radical addition; annaylin.com/100-days/sunmoonsky",
     "size": "kb"
   }
 }

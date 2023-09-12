@@ -163,3 +163,6 @@
 [submodule "obfuscate"]
 	path = obfuscate
 	url = https://github.com/iguannalin/obfuscate.git
+[submodule "sunmoonsky"]
+	path = sunmoonsky
+	url = https://github.com/iguannalin/sunmoonsky.git
