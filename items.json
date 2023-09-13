@@ -339,6 +339,12 @@
     "day": "57",
     "name": "sunmoonsky",
     "description": "(57) radical addition; annaylin.com/100-days/sunmoonsky",
+    "size": "8kb"
+  },
+  "58": {
+    "day": "58",
+    "name": "transpilation",
+    "description": "(58) further obfuscation; annaylin.com/100-days/transpilation",
     "size": "kb"
   }
 }
