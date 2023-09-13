@@ -166,3 +166,6 @@
 [submodule "sunmoonsky"]
 	path = sunmoonsky
 	url = https://github.com/iguannalin/sunmoonsky.git
+[submodule "transpilation"]
+	path = transpilation
+	url = https://github.com/iguannalin/transpilation.git
