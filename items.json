@@ -345,6 +345,12 @@
     "day": "58",
     "name": "transpilation",
     "description": "(58) annaylin.com/100-days/transpilation",
+    "size": "6kb"
+  },
+  "59": {
+    "day": "59",
+    "name": "rotation",
+    "description": "(59) annaylin.com/100-days/rotation",
     "size": "kb"
   }
 }
