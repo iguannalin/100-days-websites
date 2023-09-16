@@ -351,6 +351,12 @@
     "day": "59",
     "name": "rotation",
     "description": "(59) annaylin.com/100-days/rotation",
+    "size": "7kb"
+  },
+  "60": {
+    "day": "60",
+    "name": "interweave",
+    "description": "(60) annaylin.com/100-days/interweave",
     "size": "kb"
   }
 }
