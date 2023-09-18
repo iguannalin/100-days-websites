@@ -357,6 +357,12 @@
     "day": "60",
     "name": "interweave",
     "description": "(60) annaylin.com/100-days/interweave",
-    "size": "kb"
+    "size": "8kb"
+  },
+  "61": {
+    "day": "61",
+    "name": "parallels",
+    "description": "(61) annaylin.com/100-days/parallels",
+    "size": "14kb"
   }
 }

@@ -175,3 +175,6 @@
 [submodule "interweave"]
 	path = interweave
 	url = https://github.com/iguannalin/interweave.git
+[submodule "parallels"]
+	path = parallels
+	url = https://github.com/iguannalin/parallels.git
