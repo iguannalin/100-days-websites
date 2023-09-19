@@ -178,3 +178,6 @@
 [submodule "parallels"]
 	path = parallels
 	url = https://github.com/iguannalin/parallels.git
+[submodule "conway"]
+	path = conway
+	url = https://github.com/iguannalin/conway.git

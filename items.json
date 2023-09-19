@@ -364,5 +364,11 @@
     "name": "parallels",
     "description": "(61) annaylin.com/100-days/parallels",
     "size": "14kb"
+  },
+  "62": {
+    "day": "62",
+    "name": "conway",
+    "description": "(62) life imitates art 🤷🏻‍♀️; annaylin.com/100-days/conway",
+    "size": "kb"
   }
 }
