@@ -181,3 +181,6 @@
 [submodule "conway"]
 	path = conway
 	url = https://github.com/iguannalin/conway.git
+[submodule "groceries"]
+	path = groceries
+	url = https://github.com/iguannalin/groceries.git

@@ -368,7 +368,13 @@
   "62": {
     "day": "62",
     "name": "conway",
-    "description": "(62) life imitates art 🤷🏻‍♀️; annaylin.com/100-days/conway",
+    "description": "(62) life imitates art? annaylin.com/100-days/conway",
+    "size": "kb"
+  },
+  "63": {
+    "day": "63",
+    "name": "groceries",
+    "description": "(63) bc wholefoods api doesn't use authentication; annaylin.com/100-days/groceries",
     "size": "kb"
   }
 }
