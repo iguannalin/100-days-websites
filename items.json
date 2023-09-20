@@ -374,7 +374,7 @@
   "63": {
     "day": "63",
     "name": "groceries",
-    "description": "(63) bc wholefoods api doesn't use authentication; annaylin.com/100-days/groceries",
+    "description": "(63) wholefoods api doesn't use authentication; annaylin.com/100-days/groceries",
     "size": "kb"
   }
 }
