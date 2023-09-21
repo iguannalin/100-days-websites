@@ -375,6 +375,12 @@
     "day": "63",
     "name": "groceries",
     "description": "(63) wholefoods api doesn't use authentication; annaylin.com/100-days/groceries",
-    "size": "kb"
+    "size": "17kb"
+  },
+  "64": {
+    "day": "64",
+    "name": "ctw/2150",
+    "description": "(63) my hw assignment; annaylin.com/100-days/ctw/2150",
+    "size": "1kb"
   }
 }
