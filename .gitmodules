@@ -187,3 +187,6 @@
 [submodule "ctw"]
 	path = ctw
 	url = https://github.com/iguannalin/ctw.git
+[submodule "cellmusic"]
+	path = cellmusic
+	url = https://github.com/iguannalin/cellmusic.git
