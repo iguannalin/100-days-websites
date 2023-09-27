@@ -387,6 +387,12 @@
     "day": "65",
     "name": "cellmusic",
     "description": "(65) conway with tone.js annaylin.com/100-days/cellmusic",
+    "size": "460kb"
+  },
+  "66": {
+    "day": "66",
+    "name": "manifesto",
+    "description": "(66) manifesto directions; annaylin.com/100-days/ctw/manifesto",
     "size": "kb"
   }
 }
