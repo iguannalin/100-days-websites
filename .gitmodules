@@ -190,3 +190,6 @@
 [submodule "cellmusic"]
 	path = cellmusic
 	url = https://github.com/iguannalin/cellmusic.git
+[submodule "marquee"]
+	path = marquee
+	url = https://github.com/iguannalin/marquee.git
