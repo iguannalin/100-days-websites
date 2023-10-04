@@ -193,3 +193,6 @@
 [submodule "marquee"]
 	path = marquee
 	url = https://github.com/iguannalin/marquee.git
+[submodule "spam"]
+	path = spam
+	url = https://github.com/iguannalin/spam.git
