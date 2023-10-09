@@ -405,6 +405,12 @@
     "day": "68",
     "name": "marquee",
     "description": "(68) marqueeeee; annaylin.com/100-days/marquee",
+    "size": "1kb"
+  },
+  "69": {
+    "day": "69",
+    "name": "dupe",
+    "description": "(69) annaylin.com/100-days/dupe",
     "size": "kb"
   }
 }

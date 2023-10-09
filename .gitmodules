@@ -196,3 +196,6 @@
 [submodule "spam"]
 	path = spam
 	url = https://github.com/iguannalin/spam.git
+[submodule "dupe"]
+	path = dupe
+	url = https://github.com/iguannalin/dupe.git
