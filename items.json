@@ -411,6 +411,12 @@
     "day": "69",
     "name": "dupe",
     "description": "(69) annaylin.com/100-days/dupe",
+    "size": "10kb"
+  },
+  "70": {
+    "day": "70",
+    "name": "elements",
+    "description": "(70) it's 2am; annaylin.com/100-days/elements",
     "size": "kb"
   }
 }

@@ -199,3 +199,6 @@
 [submodule "dupe"]
 	path = dupe
 	url = https://github.com/iguannalin/dupe.git
+[submodule "elements"]
+	path = elements
+	url = https://github.com/iguannalin/elements.git
