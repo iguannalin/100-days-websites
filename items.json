@@ -417,6 +417,12 @@
     "day": "70",
     "name": "elements",
     "description": "(70) it's 2am; annaylin.com/100-days/elements",
+    "size": "2kb"
+  },
+  "71": {
+    "day": "71",
+    "name": "progress",
+    "description": "(71) web stream; annaylin.com/100-days/ctw/progress",
     "size": "kb"
   }
 }
