@@ -393,13 +393,13 @@
     "day": "66",
     "name": "ctw/manifesto",
     "description": "(66) manifesto directions; annaylin.com/100-days/ctw/manifesto",
-    "size": "kb"
+    "size": "2kb"
   },
   "67": {
     "day": "67",
     "name": "ctw/how-to",
     "description": "(67) anti-spam; annaylin.com/100-days/ctw/how-to",
-    "size": "kb"
+    "size": "5kb"
   },
   "68": {
     "day": "68",
@@ -423,6 +423,12 @@
     "day": "71",
     "name": "ctw/progress",
     "description": "(71) web stream; annaylin.com/100-days/ctw/progress",
+    "size": "1kb"
+  },
+  "72": {
+    "day": "72",
+    "name": "bleak",
+    "description": "(72) annaylin.com/100-days/bleak",
     "size": "kb"
   }
 }
