@@ -54,7 +54,7 @@ body {
 }
 
 a {
-  color: var(--default-link);
+  color: var(--default-text);
 }
 
 sub {
