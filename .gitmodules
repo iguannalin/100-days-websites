@@ -205,3 +205,6 @@
 [submodule "bleak"]
 	path = bleak
 	url = https://github.com/iguannalin/bleak.git
+[submodule "buxing"]
+	path = buxing
+	url = https://github.com/iguannalin/buxing.git
