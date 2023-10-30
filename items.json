@@ -441,6 +441,12 @@
     "day": "74",
     "name": "grass",
     "description": "(74) touch grass radicals; annaylin.com/100-days/grass",
+    "size": "4kb"
+  },
+  "75": {
+    "day": "75",
+    "name": "perlin",
+    "description": "(75) annaylin.com/100-days/perlin",
     "size": "kb"
   }
 }
