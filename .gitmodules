@@ -211,6 +211,6 @@
 [submodule "grass"]
 	path = grass
 	url = https://github.com/iguannalin/grass.git
-[submodule "perlin"]
-	path = perlin
-	url = https://github.com/iguannalin/perlin.git
+[submodule "gui"]
+	path = gui
+	url = https://github.com/iguannalin/gui.git
