@@ -214,3 +214,6 @@
 [submodule "gui"]
 	path = gui
 	url = https://github.com/iguannalin/gui.git
+[submodule "grow"]
+	path = grow
+	url = https://github.com/iguannalin/grow.git

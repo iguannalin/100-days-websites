@@ -447,6 +447,12 @@
     "day": "75",
     "name": "gui",
     "description": "(75) annaylin.com/100-days/gui",
+    "size": "4kb"
+  },
+  "76": {
+    "day": "76",
+    "name": "grow",
+    "description": "(76) annaylin.com/100-days/grow",
     "size": "kb"
   }
 }
