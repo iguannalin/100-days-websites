@@ -453,6 +453,12 @@
     "day": "76",
     "name": "grow",
     "description": "(76) annaylin.com/100-days/grow",
+    "size": "3kb"
+  },
+  "77": {
+    "day": "77",
+    "name": "pleut",
+    "description": "(77) annaylin.com/100-days/pleut",
     "size": "kb"
   }
 }
