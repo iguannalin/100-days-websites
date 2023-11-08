@@ -220,3 +220,6 @@
 [submodule "pleut"]
 	path = pleut
 	url = https://github.com/iguannalin/pleut.git
+[submodule "text-adventure"]
+	path = text-adventure
+	url = https://github.com/iguannalin/text-adventure.git

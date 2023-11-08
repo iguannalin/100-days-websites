@@ -459,6 +459,12 @@
     "day": "77",
     "name": "pleut",
     "description": "(77) annaylin.com/100-days/pleut",
+    "size": "4kb"
+  },
+  "78": {
+    "day": "78",
+    "name": "text-adventure",
+    "description": "(78) annaylin.com/100-days/text-adventure",
     "size": "kb"
   }
 }
