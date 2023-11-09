@@ -465,6 +465,12 @@
     "day": "78",
     "name": "text-adventure",
     "description": "(78) annaylin.com/100-days/text-adventure",
+    "size": "9kb"
+  },
+  "79": {
+    "day": "79",
+    "name": "pictograph",
+    "description": "(79) annaylin.com/100-days/pictograph",
     "size": "kb"
   }
 }

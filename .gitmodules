@@ -223,3 +223,6 @@
 [submodule "text-adventure"]
 	path = text-adventure
 	url = https://github.com/iguannalin/text-adventure.git
+[submodule "pictograph"]
+	path = pictograph
+	url = https://github.com/iguannalin/pictograph.git
