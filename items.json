@@ -471,6 +471,12 @@
     "day": "79",
     "name": "pictograph",
     "description": "(79) annaylin.com/100-days/pictograph",
+    "size": "6kb"
+  },
+  "80": {
+    "day": "80",
+    "name": "missing",
+    "description": "(80) annaylin.com/100-days/missing",
     "size": "kb"
   }
 }
