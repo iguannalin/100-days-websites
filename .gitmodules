@@ -229,3 +229,6 @@
 [submodule "missing"]
 	path = missing
 	url = https://github.com/iguannalin/missing.git
+[submodule "progress"]
+	path = progress
+	url = https://github.com/iguannalin/progress.git

@@ -477,6 +477,12 @@
     "day": "80",
     "name": "missing",
     "description": "(80) annaylin.com/100-days/missing",
+    "size": "1kb"
+  },
+  "81": {
+    "day": "81",
+    "name": "progress",
+    "description": "(81) annaylin.com/100-days/progress",
     "size": "kb"
   }
 }
