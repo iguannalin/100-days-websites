@@ -483,6 +483,12 @@
     "day": "81",
     "name": "progress",
     "description": "(81) annaylin.com/100-days/progress",
+    "size": "1kb"
+  },
+  "82": {
+    "day": "82",
+    "name": "janet",
+    "description": "(82) cacti landscape; annaylin.com/100-days/janet",
     "size": "kb"
   }
 }

@@ -232,3 +232,6 @@
 [submodule "progress"]
 	path = progress
 	url = https://github.com/iguannalin/progress.git
+[submodule "janet"]
+	path = janet
+	url = https://github.com/iguannalin/janet.git
