@@ -235,3 +235,6 @@
 [submodule "janet"]
 	path = janet
 	url = https://github.com/iguannalin/janet.git
+[submodule "sand"]
+	path = sand
+	url = https://github.com/iguannalin/sand.git
