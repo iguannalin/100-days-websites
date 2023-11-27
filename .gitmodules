@@ -241,3 +241,6 @@
 [submodule "garden"]
 	path = garden
 	url = https://github.com/iguannalin/garden.git
+[submodule "tennis"]
+	path = tennis
+	url = https://github.com/iguannalin/tennis.git
