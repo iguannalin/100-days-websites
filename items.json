@@ -506,7 +506,13 @@
   "85": {
     "day": "85",
     "name": "tennis",
-    "description": "(85) annaylin.com/100-days/tennis",
+    "description": "(85) sanity check; annaylin.com/100-days/tennis",
     "size": "4kb"
+  },
+  "86": {
+    "day": "86",
+    "name": "tarot",
+    "description": "(86) the are.na api doesn't require authentication; annaylin.com/100-days/tarot",
+    "size": "kb"
   }
 }
