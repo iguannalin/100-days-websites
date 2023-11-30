@@ -247,3 +247,6 @@
 [submodule "tarot"]
 	path = tarot
 	url = https://github.com/iguannalin/tarot.git
+[submodule "clock"]
+	path = clock
+	url = https://github.com/iguannalin/clock.git

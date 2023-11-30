@@ -513,6 +513,12 @@
     "day": "86",
     "name": "tarot",
     "description": "(86) the are.na api doesn't require authentication; annaylin.com/100-days/tarot",
+    "size": "15kb"
+  },
+  "87": {
+    "day": "87",
+    "name": "clock",
+    "description": "(87) annaylin.com/100-days/clock",
     "size": "kb"
   }
 }
