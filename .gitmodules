@@ -250,3 +250,6 @@
 [submodule "clock"]
 	path = clock
 	url = https://github.com/iguannalin/clock.git
+[submodule "fermat"]
+	path = fermat
+	url = https://github.com/iguannalin/fermat.git
