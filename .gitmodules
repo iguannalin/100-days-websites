@@ -253,3 +253,6 @@
 [submodule "fermat"]
 	path = fermat
 	url = https://github.com/iguannalin/fermat.git
+[submodule "load"]
+	path = load
+	url = https://github.com/iguannalin/load.git

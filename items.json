@@ -525,6 +525,12 @@
     "day": "88",
     "name": "fermat",
     "description": "(88) shout-out to fermat; annaylin.com/100-days/fermat",
+    "size": "4kb"
+  },
+  "89": {
+    "day": "89",
+    "name": "load",
+    "description": "(89) terminal; annaylin.com/100-days/load",
     "size": "kb"
   }
 }
