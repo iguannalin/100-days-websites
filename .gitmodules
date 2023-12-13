@@ -256,3 +256,6 @@
 [submodule "load"]
 	path = load
 	url = https://github.com/iguannalin/load.git
+[submodule "absence"]
+	path = absence
+	url = https://github.com/iguannalin/absence

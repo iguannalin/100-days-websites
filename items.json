@@ -532,5 +532,11 @@
     "name": "load",
     "description": "(89) terminal; annaylin.com/100-days/load",
     "size": "kb"
+  },
+  "90": {
+    "day": "90",
+    "name": "absence",
+    "description": "(90) i'm writing a paper on nothing; annaylin.com/100-days/absence",
+    "size": "kb"
   }
 }
