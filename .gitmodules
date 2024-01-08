@@ -259,3 +259,6 @@
 [submodule "absence"]
 	path = absence
 	url = https://github.com/iguannalin/absence
+[submodule "keep"]
+	path = keep
+	url = https://github.com/iguannalin/keep.git
