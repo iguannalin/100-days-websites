@@ -550,5 +550,11 @@
     "name": "ram",
     "description": "(92) was reading paik nam june's essay on random access memory; annaylin.com/100-days/ram",
     "size": "kb"
+  },
+  "93": {
+    "day": "93",
+    "name": "clingy",
+    "description": "(93) annaylin.com/100-days/clingy",
+    "size": "kb"
   }
 }

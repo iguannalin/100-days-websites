@@ -265,3 +265,6 @@
 [submodule "ram"]
 	path = ram
 	url = https://github.com/iguannalin/ram.git
+[submodule "clingy"]
+	path = clingy
+	url = https://github.com/iguannalin/clingy.git
