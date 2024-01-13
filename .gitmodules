@@ -268,3 +268,6 @@
 [submodule "clingy"]
 	path = clingy
 	url = https://github.com/iguannalin/clingy.git
+[submodule "funfetti"]
+	path = funfetti
+	url = https://github.com/iguannalin/funfetti.git
