@@ -271,3 +271,6 @@
 [submodule "funfetti"]
 	path = funfetti
 	url = https://github.com/iguannalin/funfetti.git
+[submodule "treeroots"]
+	path = treeroots
+	url = https://github.com/iguannalin/treeroots.git
