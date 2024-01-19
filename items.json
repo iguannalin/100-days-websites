@@ -568,5 +568,11 @@
     "name": "treeroots",
     "description": "(95) shared resources; annaylin.com/100-days/treeroots",
     "size": "kb"
+  },
+  "96": {
+    "day": "96",
+    "name": "typo",
+    "description": "(96) annaylin.com/100-days/typo",
+    "size": "kb"
   }
 }

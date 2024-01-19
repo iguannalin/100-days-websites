@@ -274,3 +274,6 @@
 [submodule "treeroots"]
 	path = treeroots
 	url = https://github.com/iguannalin/treeroots.git
+[submodule "typo"]
+	path = typo
+	url = https://github.com/iguannalin/typo.git
