@@ -277,3 +277,6 @@
 [submodule "typo"]
 	path = typo
 	url = https://github.com/iguannalin/typo.git
+[submodule "oracles"]
+	path = oracles
+	url = https://github.com/iguannalin/oracles.git
