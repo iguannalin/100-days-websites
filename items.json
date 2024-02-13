@@ -580,5 +580,11 @@
     "name": "oracles",
     "description": "(97) annaylin.com/100-days/oracles",
     "size": "kb"
+  },
+  "98": {
+    "day": "98",
+    "name": "parallax",
+    "description": "(98) annaylin.com/100-days/parallax",
+    "size": "kb"
   }
 }

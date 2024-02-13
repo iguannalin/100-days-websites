@@ -280,3 +280,6 @@
 [submodule "oracles"]
 	path = oracles
 	url = https://github.com/iguannalin/oracles.git
+[submodule "parallax"]
+	path = parallax
+	url = https://github.com/iguannalin/parallax.git
