@@ -283,3 +283,6 @@
 [submodule "parallax"]
 	path = parallax
 	url = https://github.com/iguannalin/parallax.git
+[submodule "space"]
+	path = space
+	url = https://github.com/iguannalin/space.git
