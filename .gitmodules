@@ -271,9 +271,6 @@
 [submodule "funfetti"]
 	path = funfetti
 	url = https://github.com/iguannalin/funfetti.git
-[submodule "treeroots"]
-	path = treeroots
-	url = https://github.com/iguannalin/treeroots.git
 [submodule "typo"]
 	path = typo
 	url = https://github.com/iguannalin/typo.git
@@ -286,3 +283,6 @@
 [submodule "space"]
 	path = space
 	url = https://github.com/iguannalin/space.git
+[submodule "roots"]
+	path = roots
+	url = https://github.com/iguannalin/roots.git
