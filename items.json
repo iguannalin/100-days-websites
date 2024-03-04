@@ -592,5 +592,11 @@
     "name": "space",
     "description": "(99) happy space; annaylin.com/100-days/space",
     "size": "kb"
+  },
+  "100": {
+    "day": "100",
+    "name": "balloons",
+    "description": "(100) 100 websites with 2nd.systems!!! balloon pixel art by sim 🎈; annaylin.com/100-days/balloons",
+    "size": "kb"
   }
 }
