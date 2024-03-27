@@ -6,17 +6,17 @@ window.addEventListener("load", () => {
   const main = document.getElementById("main");
   let sites;
   let favorites = [
-    "directions",
-    "bracketsclock",
-    "sunmoonsky",
-    "transpilation",
-    "ctw/2150",
-    "ctw/how-to",
-    "elements",
-    "ctw/progress",
-    "buxing",
-    "grass",
-    "sand"
+    // "directions",
+    // "bracketsclock",
+    // "sunmoonsky",
+    // "transpilation",
+    // "ctw/2150",
+    // "ctw/how-to",
+    // "elements",
+    // "ctw/progress",
+    // "buxing",
+    // "grass",
+    // "sand"
   ];
   fetch("./items.json").then((d) => d.json()).then((r) => {
     sites = r;
