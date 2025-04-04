@@ -27,6 +27,7 @@ body {
   text-shadow: #858ebc -2px 2px 8px;
   color: var(--default-text);
   font-size: var(--default-font);
+  font-family: "Times New Roman", serif;
 }
 
 #main {
